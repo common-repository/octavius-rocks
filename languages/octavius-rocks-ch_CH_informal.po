@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Octavius Rocks\n"
+"POT-Creation-Date: 2022-06-03 11:41+0200\n"
+"PO-Revision-Date: 2022-06-03 11:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: octavius-client.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: classes/AdminMenu.php:56 classes/AdminMenu.php:57 classes/MetaBox.php:38
+msgid "Octavius Rocks"
+msgstr "Octavius Rocks"
+
+#: classes/AdminMenu.php:66
+msgid "Dashboard ‹ Octavius Rocks"
+msgstr "Dashboard ‹ Octavius Rocks"
+
+#: classes/AdminMenu.php:67
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: classes/AdminMenu.php:82
+msgid "Settings ‹ Octavius Rocks"
+msgstr "Einstellungen ‹ Octavius Rocks"
+
+#: classes/AdminMenu.php:83 classes/Settings.php:58
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: classes/AdminMenu.php:113
+msgid "Content Type"
+msgstr "Inhaltstyp"
+
+#: classes/AdminMenu.php:119
+msgid "Homepage"
+msgstr "Startseite"
+
+#: classes/AdminMenu.php:127
+msgid "Author"
+msgstr "Autor"
+
+#: classes/AdminMenu.php:135
+msgid "Term"
+msgstr "Term"
+
+#: classes/AdminMenu.php:143
+msgid "Archive"
+msgstr "Archiv"
+
+#: classes/AdminMenu.php:151
+msgid "Search"
+msgstr "Suche"
+
+#: classes/AdminMenu.php:231
+msgctxt "Dashboard waiting for javascript"
+msgid "Dashboard is loading..."
+msgstr "Dashboard wird geladen…"
+
+#: classes/AdminView/Api.php:114
+msgctxt "get posts ajax"
+msgid "Home page"
+msgstr "Startseite"
+
+#: classes/Assets.php:226
+msgid "Hits"
+msgstr "Aufrufe"
+
+#: classes/Assets.php:227
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: classes/Assets.php:230
+msgctxt "Navigation"
+msgid "Events"
+msgstr "Ereignisse"
+
+#: classes/Assets.php:231
+msgctxt "Navigation"
+msgid "Posts"
+msgstr "Beiträge"
+
+#: classes/Assets.php:232
+msgctxt "Navigation"
+msgid "Topics"
+msgstr "Themen"
+
+#: classes/Assets.php:233
+msgctxt "Dashboard navigation"
+msgid "Pageviews"
+msgstr "Seitenaufrufe"
+
+#: classes/Assets.php:234
+msgctxt "Dashboard navigation"
+msgid "Top Posts"
+msgstr "Top Beiträge"
+
+#: classes/Assets.php:235
+msgctxt "Dashboard navigation"
+msgid "Top Referer"
+msgstr "Top vermittelnde Domains"
+
+#: classes/Assets.php:239
+msgctxt "breakpointsConfig"
+msgid "Delete"
+msgstr "Löschen"
+
+#: classes/Assets.php:240
+msgctxt "breakpointsConfig"
+msgid "Add new"
+msgstr "Eintrag erstellen"
+
+#: classes/Assets.php:241
+msgctxt "breakpointsConfig"
+msgid ""
+"Define a list of breakpoint clusters. Those will be clustered in the "
+"realtime breakpoints view."
+msgstr ""
+"Definiere eine Liste von Breakpoints, die in der Realtime Ansicht geclustert "
+"werden."
+
+#: classes/Assets.php:242
+msgctxt "breakpointsConfig"
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: classes/Assets.php:243
+msgctxt "breakpointsConfig"
+msgid "Min. width"
+msgstr "Min. Breite"
+
+#: classes/Assets.php:244
+msgctxt "breakpointsConfig"
+msgid "Max. width"
+msgstr "Max. Breite"
+
+#: classes/Assets.php:247
+msgid "From"
+msgstr "Von"
+
+#: classes/Assets.php:248
+msgid "To"
+msgstr "Bis"
+
+#: classes/Assets.php:249
+msgid "5 min."
+msgstr "5 Min."
+
+#: classes/Assets.php:250
+msgid "Hours"
+msgstr "Stunden"
+
+#: classes/Assets.php:251
+msgid "Days"
+msgstr "Tage"
+
+#: classes/Assets.php:252
+msgid "Months"
+msgstr "Monate"
+
+#: classes/Assets.php:253
+msgctxt "Dashboard"
+msgid "And"
+msgstr "Und"
+
+#: classes/Assets.php:254
+msgctxt "Dashboard"
+msgid "Or"
+msgstr "Oder"
+
+#: classes/Assets.php:255
+msgid "Top Posts"
+msgstr "Top Beiträge"
+
+#: classes/Assets.php:256
+msgid "Top Referer"
+msgstr "Top vermittelnde Domains"
+
+#: classes/Assets.php:257
+msgid "Screen sizes"
+msgstr "Bildschirmgrößen"
+
+#: classes/Assets.php:258
+msgctxt "Pageviews page"
+msgid "Time period"
+msgstr "Zeitraum"
+
+#: classes/Assets.php:259
+msgctxt "Pageviews page"
+msgid "to"
+msgstr "bis"
+
+#: classes/Assets.php:260
+msgctxt "Pageviews page"
+msgid "Group by"
+msgstr "Gruppieren nach"
+
+#: classes/Assets.php:261
+msgctxt "Pageviews page"
+msgid "Day"
+msgstr "Tag"
+
+#: classes/Assets.php:262
+msgctxt "Pageviews page"
+msgid "Month"
+msgstr "Monat"
+
+#: classes/Assets.php:263
+msgctxt "Pageviews page"
+msgid "Content type"
+msgstr "Inhaltstyp"
+
+#: classes/Assets.php:264
+msgctxt "Pageviews page"
+msgid "Query"
+msgstr "Abfragen"
+
+#: classes/Assets.php:265
+msgctxt "Pageviews page"
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: classes/Assets.php:268
+msgid "All taxonomies"
+msgstr "Alle Taxonomien"
+
+#: classes/Assets.php:269
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: classes/Assets.php:272
+msgid "Direct call"
+msgstr "Direktaufruf"
+
+#: classes/Assets.php:275
+msgctxt "healthcheck"
+msgid "✅ Is connected to service"
+msgstr "✅ ist mit dem Dienst verbunden"
+
+#: classes/Assets.php:276
+msgctxt "healthcheck"
+msgid "🚨 Is not connected to service"
+msgstr "🚨 ist nicht mit dem Dienst verbunden"
+
+#: classes/Assets.php:277
+#, php-format
+msgctxt "healthcheck"
+msgid "✅ %s events counted"
+msgstr "✅ %s gezählte Events"
+
+#: classes/Assets.php:278
+msgctxt "healthcheck"
+msgid "🚨 Could not fetch data"
+msgstr "🚨 Daten konnten nicht abgerufen werden"
+
+#: classes/Assets.php:281
+msgid "Su"
+msgstr "So"
+
+#: classes/Assets.php:282
+msgid "Mo"
+msgstr "Mo"
+
+#: classes/Assets.php:283
+msgid "Tu"
+msgstr "Di"
+
+#: classes/Assets.php:284
+msgid "We"
+msgstr "Mi"
+
+#: classes/Assets.php:285
+msgid "Th"
+msgstr "Do"
+
+#: classes/Assets.php:286
+msgid "Fr"
+msgstr "Fr"
+
+#: classes/Assets.php:287
+msgid "Sa"
+msgstr "Sa"
+
+#: classes/Assets.php:290
+msgid "Jan"
+msgstr "Jan"
+
+#: classes/Assets.php:291
+msgid "Feb"
+msgstr "Feb"
+
+#: classes/Assets.php:292
+msgid "Mar"
+msgstr "Mär"
+
+#: classes/Assets.php:293
+msgid "Apr"
+msgstr "Apr"
+
+#: classes/Assets.php:294
+msgid "May"
+msgstr "Mai"
+
+#: classes/Assets.php:295
+msgid "Jun"
+msgstr "Jun"
+
+#: classes/Assets.php:296
+msgid "Jul"
+msgstr "Jul"
+
+#: classes/Assets.php:297
+msgid "Aug"
+msgstr "Aug"
+
+#: classes/Assets.php:298
+msgid "Sep"
+msgstr "Sep"
+
+#: classes/Assets.php:299
+msgid "Oct"
+msgstr "Okt"
+
+#: classes/Assets.php:300
+msgid "Nov"
+msgstr "Nov"
+
+#: classes/Assets.php:301
+msgid "Dec"
+msgstr "Dez"
+
+#: classes/Compat/WPML.php:75
+msgid "Total over all languages"
+msgstr "Insgesamt über alle Sprachen"
+
+#: classes/PostsTable.php:113 classes/PostsTable.php:120
+msgid "Pageviews"
+msgstr "Seitenaufrufe"
+
+#: classes/Settings.php:93
+msgid "API-Key is missing."
+msgstr "API-Key fehlt."
+
+#: classes/Settings.php:96
+msgid "No valid server configuration. Is your api key valid?"
+msgstr "Keine gültige Serverkonfiguration. Ist dein API-Key gültig?"
+
+#: classes/Settings.php:105
+msgid "Goto configuration."
+msgstr "Zu der Konfiguration."
+
+#: classes/Settings.php:229
+msgid "License"
+msgstr "Lizenz"
+
+#: classes/Settings.php:230
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: classes/Settings.php:231
+msgid "Healthcheck"
+msgstr "Healthcheck"
+
+#: classes/Widgets/MostReadWidget.php:30 classes/Widgets/MostReadWidget.php:74
+msgid "Most Read"
+msgstr "Meistgelesen"
+
+#: classes/Widgets/MostReadWidget.php:78
+msgid "Title:"
+msgstr "Titel:"
+
+#: classes/Widgets/Utils.php:279
+msgid "Count"
+msgstr "Anzahl"
+
+#: classes/Widgets/Utils.php:285
+msgid "Offset"
+msgstr "Versatz"
+
+#: classes/Widgets/Utils.php:302 classes/Widgets/Utils.php:344
+msgid "-- All --"
+msgstr "— Alle —"
+
+#: classes/Widgets/Utils.php:366
+msgid "Relation type"
+msgstr "Verbindungstyp"
+
+#: classes/Widgets/Utils.php:380
+msgid "Any post type"
+msgstr "Alle Post-Typen"
+
+#: classes/Widgets/Utils.php:391
+msgid "Post type"
+msgstr "Post Typ"
+
+#: classes/Widgets/Utils.php:402
+msgid "Period"
+msgstr "Zeitraum"
+
+#: classes/Widgets/Utils.php:422
+msgid "Viewmode"
+msgstr "Anzeigemodus"
+
+#: classes/Widgets/Widgets.php:40
+#, php-format
+msgid ""
+"Query cache cron job last execution was %d hours ago (%s). Please check!"
+msgstr ""
+"Der Cron-Auftrag für den Abfrage-Cache wurde zuletzt vor %d Stunden (%s) "
+"ausgeführt. Bitte überprüfen!"
+
+#: classes/Widgets/Widgets.php:50
+msgid "Query cache cron job seems not to be scheduled."
+msgstr "Der Cron-Auftrag für den Abfragecache scheint nicht geplant zu sein."
+
+#: classes/Widgets/Widgets.php:58
+msgid "Dashboard Widgets are not available at the moment."
+msgstr "Dashboard Widgets sind gerade nicht verfügbar."
+
+#: classes/Widgets/Widgets.php:66
+msgid "Live User Rocks"
+msgstr "Live User Rocks"
+
+#: classes/Widgets/Widgets.php:73
+msgid "Statistics Rocks"
+msgstr "Statistiken Rocks"
+
+#: parts/octavius-settings-advanced.php:36
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: parts/octavius-settings-advanced.php:58
+msgid "Disable clicks"
+msgstr "Clicks deaktivieren"
+
+#: parts/octavius-settings-advanced.php:66
+#: parts/octavius-settings-advanced.php:100
+#: parts/octavius-settings-advanced.php:134
+msgid "✓ yep, track it!"
+msgstr "✓ ja, tracken!"
+
+#: parts/octavius-settings-advanced.php:68
+#: parts/octavius-settings-advanced.php:102
+#: parts/octavius-settings-advanced.php:136
+msgid "𝗑 nope, do not track it!"
+msgstr "𝗑 nein, nicht zählen!"
+
+#: parts/octavius-settings-advanced.php:81
+msgid "Disable automatic link click tracking?"
+msgstr "Automatisches tracken von Clicks auf Links deaktivieren?"
+
+#: parts/octavius-settings-advanced.php:92
+msgid "Disable rendered"
+msgstr "Rendered deaktivieren"
+
+#: parts/octavius-settings-advanced.php:115
+msgid "Disable automatic tracking of rendered elements?"
+msgstr "Automatisches tracken von gerenderten Elementen deaktiveren?"
+
+#: parts/octavius-settings-advanced.php:126
+msgid "Disable pixel"
+msgstr "Pixel deaktivieren"
+
+#: parts/octavius-settings-advanced.php:149
+msgid ""
+"Disable additional tracking pixel? It can provide information about "
+"javascript blocking users."
+msgstr ""
+"Zusätzlichen Tracking-Pixel deaktivieren? Diese Pixel kann Informationen zu "
+"der Anzahl von JavaScript-Blockierenden Besuchern geben."
+
+#: parts/octavius-settings-advanced.php:163
+msgid "Waiting for valid api key..."
+msgstr "Warte auf validen API-Key…"
+
+#: parts/octavius-settings-advanced.php:203
+#: parts/octavius-settings-license.php:133
+msgid "Tip: Use constants in wp-config.php for better performance"
+msgstr ""
+"Tipp: Definiere Konstanten in der wp-config.php zur "
+"Geschwindigkeitsoptimierung"
+
+#: parts/octavius-settings-general.php:21
+msgid "Breakpoints"
+msgstr "Breakpoints"
+
+#: parts/octavius-settings-general.php:25
+msgid "Use body:before presudo Element add breakpoint information to octavius"
+msgstr ""
+"Nutze das Presude Element body:before um Breakpoint informationen an "
+"Octavius zu übergeben"
+
+#: parts/octavius-settings-general.php:35
+msgid "Default:"
+msgstr "Standard:"
+
+#: parts/octavius-settings-health.php:9
+msgctxt "Healthcheck headline"
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: parts/octavius-settings-health.php:13
+msgid "configuration settings seem to be ok."
+msgstr "Konfiguration ist ok."
+
+#: parts/octavius-settings-health.php:16
+msgid "The api key is missing."
+msgstr "Der API-Schlüssel fehlt."
+
+#: parts/octavius-settings-health.php:19
+msgid "The server domain is missing."
+msgstr "Serverdomain fehlt."
+
+#: parts/octavius-settings-health.php:22
+msgid "The server path is missing."
+msgstr "Serverpfad fehlt."
+
+#: parts/octavius-settings-health.php:33
+#, php-format
+msgid "Last successful fetch of client configuration: ⏱ %s"
+msgstr "Letzter erfolgreicher Abruf der Konfiguration: ⏱ %s."
+
+#: parts/octavius-settings-health.php:41
+msgid "Something went wrong on fetching client configuration."
+msgstr "Beim Abruf der Konfiguration ist ein Fehler aufgetreten."
+
+#: parts/octavius-settings-health.php:46
+#, php-format
+msgid "Last time tried to fetch client configuration: %s"
+msgstr "Letzter Versuch die Konfiguration zu laden: %s."
+
+#: parts/octavius-settings-health.php:57
+#, php-format
+msgid "Last valid response:%s"
+msgstr "Letzter gültiger Abruf: %s"
+
+#: parts/octavius-settings-health.php:66
+msgid "Crons"
+msgstr "Crons"
+
+#: parts/octavius-settings-health.php:70
+msgid "Configuration is scheduled to be updated regularly."
+msgstr "Die Konfiguration wird regelmäßig abgerufen."
+
+#: parts/octavius-settings-health.php:74
+msgid "No schedule found for configuration."
+msgstr "Es wurde kein Zeitplan für die Konfiguration gefunden."
+
+#: parts/octavius-settings-health.php:81
+msgid "Pageviews cache cron is scheduled but disabled."
+msgstr "Cron für den Pageviews cache ist geplant, aber wird übersprungen."
+
+#: parts/octavius-settings-health.php:85
+msgid "Pageviews cache cron is not scheduled."
+msgstr "Pageviews Cache Cron ist nicht geplant."
+
+#: parts/octavius-settings-health.php:89
+msgid ""
+"Pageviews cache schedule is disabled. Maybe you use wp octavius-rocks import "
+"in a separate cronjob?"
+msgstr ""
+"Der Cron für den Pageview Cache ist nicht geplant. Wird der Cache vielleicht "
+"über einen separaten Cron mit der wp cli importiert?"
+
+#: parts/octavius-settings-health.php:93
+#, fuzzy
+#| msgid "JavaScripts are scheduled to be updated regularly."
+msgid "Pageviews cache is scheduled to be updated regularly."
+msgstr "JavaScripts werden regelmäßig abgerufen."
+
+#: parts/octavius-settings-health.php:99
+msgid "Pageviews cache was not imported yet."
+msgstr "Cache für Seitenaufrufe wurde bisher noch nicht importiert."
+
+#: parts/octavius-settings-health.php:104
+#, php-format
+msgid "Last successful pageviews cache import: ⏱ %s"
+msgstr "Letzter erfolgreicher Seitenaufrufe Cache-Import: ⏱ %s"
+
+#: parts/octavius-settings-health.php:111
+msgid "Api Connection"
+msgstr "API Verbindung"
+
+#: parts/octavius-settings-health.php:118
+msgid "Server is reachable."
+msgstr "Server ist erreichbar."
+
+#: parts/octavius-settings-health.php:121
+msgid "Server is unreachable."
+msgstr "Server ist nicht erreichbar."
+
+#: parts/octavius-settings-license.php:31
+msgid "API Key"
+msgstr "API Key"
+
+#: parts/octavius-settings-license.php:45
+msgid ""
+"We could not fetch fresh server configuration settings. Please check your "
+"api key."
+msgstr "Konnte keine Serverkonfiguration laden. Bitte prüfe deinen API-Key."
+
+#: parts/octavius-settings-license.php:48
+msgid ""
+"Your API key is a defined as a constant in your code. Probably in wp-config."
+"php."
+msgstr ""
+"Dein API-Key ist als Konstante im Code definiert. Vermutlich in der wp-"
+"config.php."
+
+#: parts/octavius-settings-license.php:60
+msgid "Server"
+msgstr "Server"
+
+#: parts/octavius-settings-license.php:72
+msgid "Version"
+msgstr "Version"
+
+#: parts/octavius-settings-license.php:90
+#, php-format
+msgid "You need a valid API key. Goto %sOctavius.Rocks%s to get one."
+msgstr "Du brauchst einen gültigen API-Key. Bei %sOctavius.Rocks%s erhalten."
+
+#: parts/octavius-settings-license.php:109
+msgid "Save and connect to Service"
+msgstr "Speichern und zu Server verbinden"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.octavius.rocks"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Track user behaviour on your website. View the data live on the dashboard."
+msgstr "Verfolge Benutzerinteraktionen auf deiner Website."
+
+#. Author of the plugin/theme
+msgid "PALASTHOTEL by Edward and Julia"
+msgstr "PALASTHOTEL von Edward und Julia"
+
+#. Author URI of the plugin/theme
+msgid "http://www.palasthotel.de"
+msgstr ""
+
+#~ msgid "To pageviews dashboard"
+#~ msgstr "Zu den Seitenaufrufen"
+
+#~ msgid "Top posts"
+#~ msgstr "Top-Beiträge"
+
+#~ msgid "To top posts dashboard"
+#~ msgstr "Zum Top Posts Dashboard"
+
+#~ msgid "To top referer dashboard"
+#~ msgstr "Zum Top-Referenz-Dashboard"
+
+#~ msgid "To settings page"
+#~ msgstr "Zur Einstellungsseite"
+
+#~ msgid "Realtime"
+#~ msgstr "Echtzeit"
+
+#~ msgid "To realtime dashboard"
+#~ msgstr "Zum Echtzeit-Dashboard"
+
+#, php-format
+#~ msgid ""
+#~ "Could not load some of the JavaScript files from Server. Please check "
+#~ "your configuration.<br>Missing: %s"
+#~ msgstr ""
+#~ "Einige JavaScript Dateien konnten nicht vom Server geladen werden. Bitte "
+#~ "prüfe deine Konfiguration.<br/>Fehlt: %s"
+
+#~ msgid "JavaScripts to uploads"
+#~ msgstr "JavaScript in uploads"
+
+#~ msgid "💾 yep, store scripts in uploads folder"
+#~ msgstr "💾 Jap, speichere JavaScripts in uploads"
+
+#~ msgid "🌐 nobe, always load scripts from server"
+#~ msgstr "🌐 Nein, JavaScript immer vom externen Server laden"
+
+#~ msgid "Load Javascript files to uploads and use them from there?"
+#~ msgstr "Speichere JavaScript Dateien im uploads Ordner?"
+
+#~ msgid "No schedule found to update local JavaScripts."
+#~ msgstr "Kein Zeitplan zum Aktualisieren der lokalen JavaScripts gefunden."
+
+#~ msgid ""
+#~ "No schedule for JavaScripts needed, because they are loaded from octavius."
+#~ "rocks directly."
+#~ msgstr ""
+#~ "Kein Zeitplan zum Update der JavaScripts benötigt, weil die Scripte "
+#~ "direkt von octavius.rocks geladen werden."
+
+#~ msgid "JavaScrips"
+#~ msgstr "JavaScrips"
+
+#~ msgid "Scripts are loaded from Octavius Server."
+#~ msgstr "Scripts werden vom Octavius.Rocks Server geladen."
+
+#~ msgid "Loading api..."
+#~ msgstr "Lade API Verbindung…"
+
+#, php-format
+#~ msgctxt "Health check"
+#~ msgid "✅ We counted %s events"
+#~ msgstr "✅ Wir haben %s Events gezählt"
+
+#~ msgctxt "Health check"
+#~ msgid "✅ Socket connection works"
+#~ msgstr "✅ Socket-Verbindung funktioniert"
+
+#~ msgctxt "Health check"
+#~ msgid "🚨 Socket connection is not working"
+#~ msgstr "🚨 Socket-Verbindung funktioniert nicht"
+
+#~ msgid "Reload health check"
+#~ msgstr "Healthcheck neu laden"
+
+#~ msgid "-- Default --"
+#~ msgstr "— Standard —"
